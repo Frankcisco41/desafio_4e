@@ -17,7 +17,7 @@
   > git branch desarrollo <br/>
   > git switch desarrollo 
 
-## 6.- Completar función en volumen.py
+## 6.- Completar función en tiempo.py
 
 ## 7.- Realizar Commit
   > git add . <br/>
