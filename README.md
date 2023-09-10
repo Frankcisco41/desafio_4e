@@ -3,6 +3,11 @@
 ## ANTES DE COMENZAR EL DESAFIO DEBES CREAR UN REPOSITORIO EN TU PERFIL DE GITHUB
 
 ## 1.- Descargar este repositorio
+  ### Click en releases
+  ![release](https://github.com/Frankcisco41/desafio_electricidad_electronica/assets/129874231/4273517d-6f5b-437f-9332-868d216e73ad) <br/>
+  ### Click en source code (zip)
+  ![release2](https://github.com/Frankcisco41/desafio_electricidad_electronica/assets/129874231/dfda6c75-7ee1-442c-bcd9-126c7783d2e9)
+
 
 ## 2.- Inicializar git
   > git init
