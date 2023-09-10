@@ -3,7 +3,7 @@
 ## ANTES DE COMENZAR EL DESAFIO DEBES CREAR UN REPOSITORIO EN TU PERFIL DE GITHUB
 
 ## 1.- Clonar este repositorio
-  > git clone https://github.com/Frankcisco41/desafio_4e.git
+  > git clone https://github.com/Frankcisco41/desafio_electricidad_electronica.git
 
 ## 2.- Completar funciones en longitud.py y peso.py
   
