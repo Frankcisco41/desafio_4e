@@ -2,21 +2,24 @@
 
 ## ANTES DE COMENZAR EL DESAFIO DEBES CREAR UN REPOSITORIO EN TU PERFIL DE GITHUB
 
-## 1.- Clonar este repositorio
-  > git clone https://github.com/Frankcisco41/desafio_electricidad_electronica.git
+## 1.- Descargar este repositorio
 
-## 2.- Completar funciones en longitud.py y peso.py
+## 2.- Inicializar git
+  > git init
+
+## 3.- Completar funciones en temperatura.py y masa.py
   
-## 3.- Realizar commit
+## 4.- Realizar commit
   > git add . <br/>
   > git commit -m "mensaje descriptivo"
 
-## 4.- Cambiar de rama master a rama desarrollo.
-  > git switch desarrollo
+## 5.- Crear y cambiarse de rama.
+  > git branch desarrollo
+  > git switch desarrollo 
 
-## 5.- Completar función en volumen.py
+## 6.- Completar función en volumen.py
 
-## 6.- Realizar Commit
+## 7.- Realizar Commit
   > git add . <br/>
   > git commit -m "mensaje descriptivo"
 
