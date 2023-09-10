@@ -14,7 +14,7 @@
   > git commit -m "mensaje descriptivo"
 
 ## 5.- Crear y cambiarse de rama.
-  > git branch desarrollo
+  > git branch desarrollo <br/>
   > git switch desarrollo 
 
 ## 6.- Completar función en volumen.py
