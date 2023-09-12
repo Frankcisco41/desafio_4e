@@ -25,10 +25,8 @@
   > git add . <br/>
   > git commit -m "mensaje descriptivo"
 
-## 7.- Cambiar a rama master y unir ambas ramas.
+## 8.- Cambiar a rama master y unir ambas ramas.
   > git switch master <br/>
   > git merge desarrollo
 
-## 8.- Subir cambios a github
-  > git push origin master
 
